@@ -1,4 +1,4 @@
-## useful-debian-commands
+## Полезные команды для Debian 11
 
 
 /etc/init.d/networking stop && /etc/init.d/networking start   - перезагрузка сети
